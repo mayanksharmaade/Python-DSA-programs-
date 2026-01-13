@@ -1,0 +1,5 @@
+ DSA PROGRAMS for Python
+
+1) LINEAR SEARCH 
+
+ 
